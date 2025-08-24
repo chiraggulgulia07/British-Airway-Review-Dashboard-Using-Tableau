@@ -87,7 +87,7 @@ Explore insights across time, geography, and traveler segments.
 
 📸 Dashboard Preview
 
-(https://github.com/chiraggulgulia07/British-Airway-Review-Dashboard-Using-Tableau/blob/main/Analytics%20Dashboard.png)
+![British Airways Dashboard](https://github.com/chiraggulgulia07/British-Airway-Review-Dashboard-Using-Tableau/blob/main/Analytics%20Dashboard.png?raw=true)
 
 🎯 Business Recommendations
 
